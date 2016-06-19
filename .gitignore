@@ -1,0 +1,42 @@
+*.class
+*.log
+
+# sbt specific
+.cache
+.history
+.lib/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+# Scala-IDE specific
+.scala_dependencies
+.worksheet
+
+# Intellij
+.idea/
+*.iml
+*.iws
+logs
+target
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+
+# Simple Build Tool
+# http://www.scala-sbt.org/release/docs/Getting-Started..
+
+target/
+lib_managed/
+src_managed/
+project/boot/
+.history
+.cache
+
+*.sbtserver*
